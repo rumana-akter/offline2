@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="harry_button">harry potter</string>
+    <string name="hermione_button">harmione granger</string>
+    <string name="ron_button">ron weasley</string>
+    <string name="harry_text">
+        full Name : harry James Potter\n
+        nickname : The chosen one\n
+        family : James Potter , Lily Potter \n
+        spouse : Ginny Weasley\n
+        born : 31 July 1980\n
+
+    </string>
+
+    <string name="hermione_text">
+        full Name : hermione Jean Granger\n
+        spouse : Ron Weasley\n
+        children : Rose Granger Weasley ,Hugo Granger Weasley\n
+        born : 19 September 1979\n
+
+
+    </string>
+
+    <string name="ron_text">
+        full Name : ronald Bilius Weasley\n
+        spouse : Hermione Granger\n
+        cildren : Rose Granger Weasley,Hugo Granger Weasley\n
+        born : 1 March 1980\n
+
+
+    </string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpap"
+    android:gravity="center"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About which character you wannt to know?"
+        android:textStyle="bold"
+        android:textSize="30dp"/>
+
+
+    <Button
+        android:id="@+id/harryButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/harry_button"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+    <Button
+        android:id="@+id/hermioneButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hermione_button"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/ronButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ron_button"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+
+</TableLayout>
